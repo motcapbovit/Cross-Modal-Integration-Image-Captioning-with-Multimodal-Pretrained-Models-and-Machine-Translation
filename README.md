@@ -9,7 +9,7 @@ On the other hand, regarding of machine translation task, we utilized LSTM and G
 
 **Image Captioning:**
 
-Our evaluation was conducted on the UIT-ViIC dataset, comprising 3,850 images related to various ball sports. This dataset was curated from the 2017 version of the Microsoft COCO dataset and therefore, UITViIC also provides five Vietnamese captions for each image, resulting in a total of 19,250 captions.
+Our evaluation was conducted on the [UIT-ViIC dataset](https://sites.google.com/uit.edu.vn/uit-nlp/datasets?authuser=0), comprising 3,850 images related to various ball sports. This dataset was curated from the 2017 version of the Microsoft COCO dataset and therefore, UIT-ViIC also provides five Vietnamese captions for each image, resulting in a total of 19,250 captions.
 
 Example:
 
@@ -23,7 +23,7 @@ Example:
 
 **Machine Translation:**
 
-We leveraged caption sentences in both Vietnamese and English, which used to described images from the Flickr8k dataset. Subsequently, we adjusted the data structure to optimize it for the training process, resulting in a corpus comprising 4,000 sentences for each language.
+We leveraged caption sentences in both [Vietnamese](https://www.kaggle.com/datasets/trungit/flickr8k-vi-caps?resource=download) and [English](https://www.kaggle.com/datasets/adityajn105/flickr8k), which used to described images from the Flickr8k dataset. Subsequently, we adjusted the data structure to optimize it for the training process, resulting in a corpus comprising 4,000 sentences for each language.
 
 Example:
 
