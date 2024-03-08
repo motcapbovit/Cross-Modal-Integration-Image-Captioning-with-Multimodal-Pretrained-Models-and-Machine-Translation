@@ -1,4 +1,4 @@
-# Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation
+# Cross Modal Integration Image Captioning with Multimodal Pretrained Models and Machine Translation
 
 ## Abstract
 This is a academic research focused on the image captioning and machine translation problems, approached in a fundamental and accessible manner. In this project, for the task image captioning, we utilize 7 pretrained models for image feature extraction: VGG16, VGG19, InceptionV3, ResNet50, EfficientNetV2L, DenseNet201, and InceptionResNetV2. These models are then combined with 2 sequence models, LSTM and GRU, resulting in a total of 14 model combinations aimed at comparing their effectiveness.
@@ -20,3 +20,28 @@ Example:
 - Annotation:
 
 <img width="500" alt="Screenshot 2024-03-08 162949" src="https://github.com/motcapbovit/Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation/assets/72774923/cdf64048-4a84-4f38-91ba-24c81d732e87">
+
+**Machine Translation:**
+
+We leveraged caption sentences in both Vietnamese and English, which used to described images from the Flickr8k dataset. Subsequently, we adjusted the data structure to optimize it for the training process, resulting in a corpus comprising 4,000 sentences for each language.
+
+Example:
+
+<img width="500" alt="Screenshot 2024-03-08 211942" src="https://github.com/motcapbovit/Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation/assets/72774923/4c4adc43-d9d9-430e-a697-1dcfe682d03d">
+
+## Model Evaluation
+
+**Image Captioning:**
+
+<img width="500" alt="Screenshot 2024-03-08 163306" src="https://github.com/motcapbovit/Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation/assets/72774923/fe4808bf-e091-4869-a737-36b2b8ad2b99">
+
+**Machine Translation:**
+
+<img width="500" alt="Screenshot 2024-03-08 203132" src="https://github.com/motcapbovit/Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation/assets/72774923/b069d575-1f9a-4dce-9eb5-e363e598d4a1">
+
+## Contact
+Chi Thanh Dang, Thuy Hong Thi Dang and Tien Duong Pham
+
+Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
+
+20520761@gm.uit.edu.vn, 20520523@gm.uit.edu.vn, 20521222@gm.uit.edu.vn
