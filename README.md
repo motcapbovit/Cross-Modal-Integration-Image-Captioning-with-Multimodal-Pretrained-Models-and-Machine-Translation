@@ -40,7 +40,7 @@ Example:
 <img width="500" alt="Screenshot 2024-03-08 203132" src="https://github.com/motcapbovit/Cross-Modal-Integration-Image-Captioning-with-Multimodal-Pretrained-Models-and-Machine-Translation/assets/72774923/b069d575-1f9a-4dce-9eb5-e363e598d4a1">
 
 ## Contact
-Chi Thanh Dang, Thuy Hong Thi Dang and Tien Duong Pham
+[Chi Thanh Dang](https://github.com/motcapbovit), [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and Tien Duong Pham
 
 Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
 
